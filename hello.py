@@ -1,6 +1,5 @@
 # ask users for their name
-name = input(" what is your name? ")
+name = input(" what's your name? ")
 
 # say hello to user
-print("hello,")
-print(name)
+print(f"hello, {name}") 
